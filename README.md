@@ -1,1 +1,1 @@
-# rsschool-cv
+https://FilosofiaJulia.github.io/rsschool-cv/cv
