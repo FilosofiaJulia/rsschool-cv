@@ -22,3 +22,17 @@ I’d like to complete the course successfully and find a job where I could impr
 - JavaScript (basic)
 - Git
 - Agile
+
+### Code Example
+
+**Replace With Alphabet Position:**  
+*In this kata you are required to, given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it.*
+
+```
+function alphabetPosition(text) {
+  return text.toLowerCase().split('')//возвращаем строку,где символы в нижнем регистре. преобразуем её в массив с символами
+        .filter( symbol => symbol >= 'a' & symbol <= 'z' )//фильтруем его и создаем массив, где только символы от 'a' до 'z'
+        .map( symbol => symbol.charCodeAt(0) - 'a'.charCodeAt(0) + 1)//на его основе создаем массив, где символы были заменены числовым значением
+        .join(' ');// элементы полученного массива преобразуем в строку
+}
+```
