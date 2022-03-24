@@ -47,3 +47,8 @@ Togliatti State University with Master’s degree in Philology (Forensic Linguis
 - Сourse "JavaScript + React" on [udemy.com] (https://www.udemy.com/course/javascript_full/) 
 (in progress: completed the section "Javascript basics")
 - RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)
+
+### Languages
+
+- Russian (native speaker)
+- English B1 (according online test at [Inglex.ru](https://englex.ru/your-level/placement/?answer_id=3360623))
