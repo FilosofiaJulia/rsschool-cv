@@ -36,3 +36,14 @@ function alphabetPosition(text) {
         .join(' ');// элементы полученного массива преобразуем в строку
 }
 ```
+
+### Education
+
+Togliatti State University with Master’s degree in Philology (Forensic Linguistics) 2015-2017
+
+##### Courses:
+- Summer workshop for project managers by SimbirSoft
+- JavaScript Manual on [learn.javascript.ru] (https://learn.javascript.ru/) (in progress)
+- Сourse "JavaScript + React" on [udemy.com] (https://www.udemy.com/course/javascript_full/) 
+(in progress: completed the section "Javascript basics")
+- RS Schools Course "JavaScript/Front-end. Stage 1" (in progress)
