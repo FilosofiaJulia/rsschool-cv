@@ -36,6 +36,9 @@ function alphabetPosition(text) {
         .join(' ');// элементы полученного массива преобразуем в строку
 }
 ```
+### My projects
+
+[CV](https://github.com/FilosofiaJulia/rsschool-cv/) (learning project)
 
 ### Education
 
