@@ -14,3 +14,11 @@ In 2021, I decided to change my profession and focused on different IT career pa
 find out what project managers do. During Workshop I got interested in different types of development and especially in Front-end development.  
 Currently I’m learning pure JavaScript on my own and looking forward to begin learning React. I’m also interested in software development methodologies such as Waterfall and Agile. I’m ready for challenges, hard work, new technologies and high-level mentoring.  
 I’d like to complete the course successfully and find a job where I could improve my skills and become a good developer with strong soft skills as well as technical skills.
+
+### Skills
+
+- HTML5
+- CSS3
+- JavaScript (basic)
+- Git
+- Agile
